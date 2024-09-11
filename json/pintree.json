@@ -5,160 +5,6 @@
     "title": "书签栏",
     "children": [
       {
-        "type": "link",
-        "addDate": 1504677295000,
-        "title": "杀死标签",
-        "icon": "https://logo.clearbit.com/kill",
-        "url": "chrome://kill/"
-      },
-      {
-        "type": "folder",
-        "addDate": 1721225073233,
-        "title": "常用网址",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "百度",
-            "icon": "https://logo.clearbit.com/www.baidu.com",
-            "url": "https://www.baidu.com/?xbn=centbrowser"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "网易",
-            "icon": "https://logo.clearbit.com/www.163.com",
-            "url": "https://www.163.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "微博",
-            "icon": "https://logo.clearbit.com/weibo.com",
-            "url": "https://weibo.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "抖音",
-            "icon": "https://logo.clearbit.com/www.douyin.com",
-            "url": "https://www.douyin.com/?xbn=centbrowser"
-          },
-          {
-            "type": "link",
-            "addDate": 1504910281000,
-            "title": "知乎",
-            "icon": "https://logo.clearbit.com/www.zhihu.com",
-            "url": "https://www.zhihu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504712067000,
-            "title": "哔哩哔哩",
-            "icon": "https://logo.clearbit.com/www.bilibili.com",
-            "url": "https://www.bilibili.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "优酷",
-            "icon": "https://logo.clearbit.com/www.youku.com",
-            "url": "https://www.youku.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711968000,
-            "title": "爱奇艺",
-            "icon": "https://logo.clearbit.com/www.iqiyi.com",
-            "url": "https://www.iqiyi.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504677287000,
-            "title": "凤凰网",
-            "icon": "https://logo.clearbit.com/www.ifeng.com",
-            "url": "https://www.ifeng.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504712027000,
-            "title": "百度地图",
-            "icon": "https://logo.clearbit.com/map.baidu.com",
-            "url": "https://map.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504712107000,
-            "title": "网易云音乐",
-            "icon": "https://logo.clearbit.com/music.163.com",
-            "url": "https://music.163.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504676805000,
-            "title": "斗鱼直播",
-            "icon": "https://logo.clearbit.com/www.douyu.com",
-            "url": "https://www.douyu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504677007000,
-            "title": "虎牙直播",
-            "icon": "https://logo.clearbit.com/www.huya.com",
-            "url": "https://www.huya.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504711914000,
-            "title": "快手",
-            "icon": "https://logo.clearbit.com/www.kuaishou.com",
-            "url": "https://www.kuaishou.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504678744000,
-            "title": "58同城",
-            "icon": "https://logo.clearbit.com/www.58.com",
-            "url": "https://www.58.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504678807000,
-            "title": "汽车之家",
-            "icon": "https://logo.clearbit.com/www.autohome.com.cn",
-            "url": "https://www.autohome.com.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504678845000,
-            "title": "中国铁路12306",
-            "icon": "https://logo.clearbit.com/www.12306.cn",
-            "url": "https://www.12306.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504680100000,
-            "title": "金山词霸在线",
-            "icon": "https://logo.clearbit.com/www.iciba.com",
-            "url": "https://www.iciba.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504712283000,
-            "title": "IP138查询网",
-            "icon": "https://logo.clearbit.com/qq.ip138.com",
-            "url": "https://qq.ip138.com/day/"
-          },
-          {
-            "type": "link",
-            "addDate": 1504903295000,
-            "title": "中国天气网",
-            "icon": "https://logo.clearbit.com/www.weather.com.cn",
-            "url": "http://www.weather.com.cn/"
-          }
-        ]
-      },
-      {
         "type": "folder",
         "addDate": 1721225073233,
         "title": "网上购物",
@@ -250,22 +96,16 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1504711914000,
-        "title": "导入书签",
-        "icon": "https://logo.clearbit.com/settings",
-        "url": "chrome://settings/importData"
-      },
-      {
         "type": "folder",
-        "addDate": 1721225826829,
-        "title": "常用IIIIIIIIIII",
+        "addDate": 1726038646955,
+        "title": "应用下载",
         "children": [
           {
             "type": "link",
-            "title": "彩云小译官网 - 高效准确的翻译工具 | 文字翻译 | 文档翻译 | 网页翻译 | 浏览器插件 | 双语对照 | 术语库",
-            "icon": "https://logo.clearbit.com/fanyi.caiyunapp.com",
-            "url": "https://fanyi.caiyunapp.com/#/"
+            "addDate": 1726038652334,
+            "title": "果核剥壳 - 互联网的净土",
+            "icon": "https://logo.clearbit.com/www.ghxi.com",
+            "url": "https://www.ghxi.com/"
           },
           {
             "type": "link",
@@ -281,252 +121,93 @@
           },
           {
             "type": "link",
-            "title": "ZAPRO · 杂铺 - 高质量影视资讯与技术分享平台",
-            "icon": "https://logo.clearbit.com/tmioe.com",
-            "url": "https://tmioe.com/"
-          },
-          {
-            "type": "link",
             "title": "423Down",
             "icon": "https://logo.clearbit.com/www.423down.com",
             "url": "https://www.423down.com/"
           },
           {
             "type": "link",
-            "title": "Adobe 2024 Win/Mac破解版下载丨Adobe 2024 2023 2022 2021 破解补丁",
-            "icon": "https://logo.clearbit.com/www.superso.top",
-            "url": "https://www.superso.top/Adobe/"
+            "addDate": 1726038805927,
+            "title": "易破解 - 给你所需要的内容",
+            "icon": "https://logo.clearbit.com/www.ypojie.com",
+            "url": "https://www.ypojie.com/"
           },
           {
             "type": "link",
-            "title": "LookAE.com-大众脸影视后期特效",
-            "icon": "https://logo.clearbit.com/www.lookae.com",
-            "url": "https://www.lookae.com/"
+            "addDate": 1726038817283,
+            "title": "哎呦不错往前方资源网-你想要的软件这里都有",
+            "icon": "https://logo.clearbit.com/qianfangzy.com",
+            "url": "https://qianfangzy.com/"
           },
           {
             "type": "link",
-            "title": "Трекер",
-            "icon": "https://logo.clearbit.com/rutracker.org",
-            "url": "https://rutracker.org/forum/tracker.php?nm=Adobe%20Premiere%20Pro%202020"
+            "addDate": 1726038837298,
+            "title": "ahhhhfs - A姐分享",
+            "icon": "https://logo.clearbit.com/www.ahhhhfs.com",
+            "url": "https://www.ahhhhfs.com/"
           },
           {
             "type": "link",
-            "title": "ArcTime Pro跨平台字幕软件 | Arctime字幕软件",
-            "icon": "https://logo.clearbit.com/arctime.org",
-            "url": "https://arctime.org/index.html"
+            "addDate": 1726038851273,
+            "title": "小刀娱乐网 - 专注活动，软件，教程分享！总之就是网络那些事。",
+            "icon": "https://logo.clearbit.com/xd.x6d.com",
+            "url": "https://xd.x6d.com/"
           },
           {
             "type": "link",
-            "title": "明裏紬 | JavDB 成人影片數據庫",
-            "icon": "https://logo.clearbit.com/javdb.com",
-            "url": "https://javdb.com/actors/M4Q7?t=157&sort_type=0"
+            "addDate": 1726038867666,
+            "title": "小高网-专注于资源收集与活动分享_小高教学网精品源码_技术教程分享。",
+            "icon": "https://logo.clearbit.com/www.xgw4.com",
+            "url": "https://www.xgw4.com/"
           },
           {
             "type": "link",
-            "title": "小白云盘TV",
-            "icon": "https://logo.clearbit.com/crazynoby.github.io",
-            "url": "https://crazynoby.github.io/"
+            "addDate": 1726039032146,
+            "title": "电脑软件_windows-分享迷",
+            "icon": "https://logo.clearbit.com/www.fenxm.com",
+            "url": "https://www.fenxm.com/pc"
           },
           {
             "type": "link",
-            "title": "2022年-全家桶 · 语雀",
-            "icon": "https://logo.clearbit.com/www.yuque.com",
-            "url": "https://www.yuque.com/u12142785/pr7i0q"
+            "addDate": 1726039040723,
+            "title": "系统软件下载_电脑装系统必备软件下载-爱纯净官网",
+            "icon": "https://logo.clearbit.com/www.aichunjing.com",
+            "url": "https://www.aichunjing.com/soft/"
           },
           {
             "type": "link",
-            "title": "配音神器网页版",
-            "icon": "https://logo.clearbit.com/peiyinshenqi.com",
-            "url": "https://peiyinshenqi.com/#/"
+            "addDate": 1726039127745,
+            "title": "mefcl - 分享纯净好资源",
+            "icon": "https://logo.clearbit.com/www.mefcl.com",
+            "url": "https://www.mefcl.com/"
           },
           {
             "type": "link",
-            "title": "爱达杂货铺 | 收集那些有用的东西|爱达导航",
-            "icon": "https://logo.clearbit.com/adzhp.cn",
-            "url": "https://adzhp.cn/"
+            "addDate": 1726039151272,
+            "title": "FileEagle | Free Apps for Windows, Mac, Linux",
+            "icon": "https://logo.clearbit.com/www.fileeagle.com",
+            "url": "https://www.fileeagle.com/zh-CN/windows/most-popular/"
           },
           {
             "type": "link",
-            "title": "龙轩导航-做个有用的导航",
-            "icon": "https://logo.clearbit.com/m.ilxdh.com",
-            "url": "http://m.ilxdh.com/"
+            "addDate": 1726039183340,
+            "title": "Puresys纯净系统-软件下载",
+            "icon": "https://logo.clearbit.com/www.puresys.net",
+            "url": "https://www.puresys.net/"
           },
           {
             "type": "link",
-            "title": "果汁排行榜 - 各类榜单排名大全",
-            "icon": "https://logo.clearbit.com/guozhivip.com",
-            "url": "http://guozhivip.com/rank/"
+            "addDate": 1726039199406,
+            "title": "系统迷 - 关注科技互联网，分享精品软件、教程和资源",
+            "icon": "https://logo.clearbit.com/www.xitmi.com",
+            "url": "https://www.xitmi.com/"
           },
           {
             "type": "link",
-            "title": "影视导航 - Y4电影网站导航",
-            "icon": "https://logo.clearbit.com/ys.urlsdh.com",
-            "url": "https://ys.urlsdh.com/"
-          },
-          {
-            "type": "link",
-            "title": "书享家_电子书下载导航",
-            "icon": "https://logo.clearbit.com/shuxiangjia.cn",
-            "url": "http://shuxiangjia.cn/"
-          },
-          {
-            "type": "link",
-            "title": "网址库 - 网站推荐、网址大全",
-            "icon": "https://logo.clearbit.com/www.wangzhiku.com",
-            "url": "https://www.wangzhiku.com/"
-          },
-          {
-            "type": "link",
-            "title": "doyoudo",
-            "icon": "https://logo.clearbit.com/www.doyoudo.com",
-            "url": "https://www.doyoudo.com/"
-          },
-          {
-            "type": "link",
-            "title": "黑马JavaEE课程体系V13.0资源",
-            "icon": "https://logo.clearbit.com/pan.baidu.com",
-            "url": "https://pan.baidu.com/s/1j14uBv19ODb_xSL1hVE5zg?pwd=eehw#eehw"
-          },
-          {
-            "type": "link",
-            "title": "找台词",
-            "icon": "https://logo.clearbit.com/zhaotaici.cn",
-            "url": "https://zhaotaici.cn/"
-          },
-          {
-            "type": "link",
-            "title": "UVR5",
-            "icon": "https://logo.clearbit.com/ultimatevocalremover.com",
-            "url": "https://ultimatevocalremover.com/"
-          },
-          {
-            "type": "link",
-            "title": "Lemon live",
-            "icon": "https://logo.clearbit.com/lemonlive.deno.dev",
-            "url": "https://lemonlive.deno.dev/huya"
-          },
-          {
-            "type": "link",
-            "title": "Tracker :: RuTracker.RU - Свободный торрент трекер",
-            "icon": "https://logo.clearbit.com/rutracker.ru",
-            "url": "http://rutracker.ru/tracker.php#results"
-          },
-          {
-            "type": "link",
-            "title": "小巧GIF录制必备工具LICEcap 1.32 官方英文版& 简体中文汉化版的绿色单文件版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn",
-            "icon": "https://logo.clearbit.com/www.52pojie.cn",
-            "url": "https://www.52pojie.cn/thread-1837479-1-1.html"
-          },
-          {
-            "type": "link",
-            "title": "一元机场 频道 – Telegram",
-            "icon": "https://logo.clearbit.com/t.me",
-            "url": "https://t.me/s/yyjc_channel"
-          },
-          {
-            "type": "link",
-            "title": "影视收藏夹 | 收藏全网影视资源",
-            "icon": "https://logo.clearbit.com/a.ysscj.site",
-            "url": "http://a.ysscj.site/"
-          },
-          {
-            "type": "link",
-            "title": "Yuzu Prod Keys & Title Keys v18.0.0 Download",
-            "icon": "https://logo.clearbit.com/prodkeys.net",
-            "url": "https://prodkeys.net/yuzu-prod-keys-5/"
-          },
-          {
-            "type": "link",
-            "title": "CyberMania",
-            "icon": "https://logo.clearbit.com/www.cybermania.ws",
-            "url": "https://www.cybermania.ws/"
-          },
-          {
-            "type": "link",
-            "title": "JoyXoff",
-            "icon": "https://logo.clearbit.com/joyxoff.com",
-            "url": "https://joyxoff.com/en/"
-          },
-          {
-            "type": "link",
-            "title": "Github 增强 - 高速下载",
-            "icon": "https://logo.clearbit.com/greasyfork.org",
-            "url": "https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD"
-          },
-          {
-            "type": "link",
-            "title": "网盘自动填写访问码【威力加强版】",
-            "icon": "https://logo.clearbit.com/scriptcat.org",
-            "url": "https://scriptcat.org/zh-CN/script-show-page/373"
-          },
-          {
-            "type": "link",
-            "title": "链接助手",
-            "icon": "https://logo.clearbit.com/greasyfork.org",
-            "url": "https://greasyfork.org/zh-CN/scripts/422773-%E9%93%BE%E6%8E%A5%E5%8A%A9%E6%89%8B"
-          },
-          {
-            "type": "link",
-            "addDate": 1721228611080,
-            "title": "Crx搜搜 - 一个牛X的扩展和应用商店",
-            "icon": "https://logo.clearbit.com/www.crxsoso.com",
-            "url": "https://www.crxsoso.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1723167423280,
-            "title": "TikTok Voice Generator: Generate funny TikTok AI Voices",
-            "icon": "https://logo.clearbit.com/tiktokvoice.net",
-            "url": "https://tiktokvoice.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1724926384574,
-            "title": "Spacemiss.com - Space of Miss Beautiful",
-            "icon": "https://logo.clearbit.com/spacemiss.com",
-            "url": "https://spacemiss.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725413599160,
-            "title": "Site search » RePack.info",
-            "icon": "https://logo.clearbit.com/repack.info",
-            "url": "https://repack.info/cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725751207328,
-            "title": "Text Compare: Real-Time Diff & Merge Tool Online | Free",
-            "icon": "https://logo.clearbit.com/diffsuite.com",
-            "url": "https://diffsuite.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725873663674,
-            "title": "电视直播：TVBox takagen99 (附最新接口地址) 直播+点播[安卓]",
-            "icon": "https://logo.clearbit.com/www.4spaces.org",
-            "url": "https://www.4spaces.org/2973.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1725873921148,
-            "title": "订阅详情 - 轻舞云",
-            "icon": "https://logo.clearbit.com/www.qingwuyun.cc",
-            "url": "https://www.qingwuyun.cc/#/stage/buysubs/order?id=3"
-          },
-          {
-            "type": "link",
-            "addDate": 1725873928364,
-            "title": "仪表盘 - 轻舞云",
-            "icon": "https://logo.clearbit.com/www.qingwuyun.cc",
-            "url": "https://www.qingwuyun.cc/#/stage/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1726028483914,
-            "title": "Text To Speech",
-            "icon": "https://logo.clearbit.com/aisaver.io",
-            "url": "https://aisaver.io/tools/text-to-speech"
+            "addDate": 1726039211126,
+            "title": "Windows-App热",
+            "icon": "https://logo.clearbit.com/apphot.cc",
+            "url": "https://apphot.cc/category/software"
           }
         ]
       }
